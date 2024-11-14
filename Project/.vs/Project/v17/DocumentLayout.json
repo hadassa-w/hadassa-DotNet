@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC4591F-3DFC-446B-8A32-22AC30899DCF}|TestBook\\TestBook.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\testbook\\booktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC4591F-3DFC-446B-8A32-22AC30899DCF}|TestBook\\TestBook.csproj|solutionrelative:testbook\\booktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\controllers\\booksalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\controllers\\booksalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\controllers\\bookbuycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\controllers\\bookbuycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\classes\\booksale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\classes\\booksale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\classes\\bookbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\classes\\bookbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\servies\\booksaleservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\servies\\booksaleservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\servies\\bookbuyservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\servies\\bookbuyservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\servies\\bookservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\servies\\bookservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\project\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42388C51-68DF-4CC4-82A8-907530227347}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookTest.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\TestBook\\BookTest.cs",
+              "RelativeDocumentMoniker": "TestBook\\BookTest.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\TestBook\\BookTest.cs",
+              "RelativeToolTip": "TestBook\\BookTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:48:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookSaleController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookSaleController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\BookSaleController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookSaleController.cs",
+              "RelativeToolTip": "Project\\Controllers\\BookSaleController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwDoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:32:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookBuyController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookBuyController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\BookBuyController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookBuyController.cs",
+              "RelativeToolTip": "Project\\Controllers\\BookBuyController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:38:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\BookController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Project\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:20:12.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookSaleServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookSaleServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\BookSaleServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookSaleServies.cs",
+              "RelativeToolTip": "Project\\Servies\\BookSaleServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:12:39.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\BookServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookServies.cs",
+              "RelativeToolTip": "Project\\Servies\\BookServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:12:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookBuyServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookBuyServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\BookBuyServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Servies\\BookBuyServies.cs",
+              "RelativeToolTip": "Project\\Servies\\BookBuyServies.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:10:26.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project\\Project.csproj",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Project.csproj",
+              "RelativeToolTip": "Project\\Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T18:55:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\Book.cs",
+              "RelativeDocumentMoniker": "Project\\Classes\\Book.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\Book.cs",
+              "RelativeToolTip": "Project\\Classes\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:47:31.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookBuy.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\BookBuy.cs",
+              "RelativeDocumentMoniker": "Project\\Classes\\BookBuy.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\BookBuy.cs",
+              "RelativeToolTip": "Project\\Classes\\BookBuy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:47:21.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookSale.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\BookSale.cs",
+              "RelativeDocumentMoniker": "Project\\Classes\\BookSale.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Classes\\BookSale.cs",
+              "RelativeToolTip": "Project\\Classes\\BookSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:49:26.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D5\u05D9\u05D6\u05DE\u05DF \u05D4\u05D3\u05E1\u05D4\\Dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\Project\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:49:20.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
